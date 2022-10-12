@@ -1,0 +1,13 @@
+body { 
+    min-height: 100%; 
+}
+
+.container {
+    display: flex;
+}
+
+.product-card {
+    display: flex;
+    margin-right: 50%;
+    margin-left: 50%;
+}
